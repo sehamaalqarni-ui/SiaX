@@ -1,0 +1,1 @@
+A simple interactive prototype demonstrating the app’s screens and navigation flow.
